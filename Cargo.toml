@@ -1,0 +1,12 @@
+[package]
+name = "packet_loss_classification"
+version = "0.1.0"
+authors = ["spebern sp33cht@gmail.com"]
+edition = "2018"
+license = "Apache-2.0/MIT"
+repository = "https://github.com/spebern/packet_loss_classification"
+documentation = "https://docs.rs/packet_loss_classification"
+description = "Packet loss classifiation algorithms"
+keywords = ["packet loss", "classification", "network"]
+categories = ["network-programming"]
+readme = "README.md"
